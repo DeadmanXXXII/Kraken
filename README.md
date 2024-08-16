@@ -43,3 +43,5 @@
 - **Randomizes user agents** to avoid detection and blocking.
 - **Uses optional proxies** to obfuscate the origin of the requests.
 - **Operates concurrently**, sending multiple requests at once, potentially leading to resource exhaustion on the targeted servers.
+
+![Kraken hitting Hackerone ](https://raw.githubusercontent.com/DeadmanXXXII/Double_Barrel/main/Screenshot_20240816-131228.png)
