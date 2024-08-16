@@ -46,4 +46,9 @@
 
 ![Kraken hitting Hackerone ](https://raw.githubusercontent.com/DeadmanXXXII/Kraken/main/Screenshot_20240816-100715.png)
 
+![Kraken hitting Hackerone ](https://raw.githubusercontent.com/DeadmanXXXII/Kraken/main/Screenshot_20240816-000232.png)
+
+![Kraken hitting Hackerone ](https://raw.githubusercontent.com/DeadmanXXXII/Kraken/main/Screenshot_20240816-000313.png)
+
+![Kraken hitting Hackerone ](https://raw.githubusercontent.com/DeadmanXXXII/Kraken/main/Screenshot_20240816-100708.png)
 
