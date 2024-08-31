@@ -28,12 +28,12 @@
 
 1. **Without Proxies**:
    ```bash
-   python3 script_name.py --start 1 --end 9999999 --delay 0.00001 --concurrency 50
+   python3 script_name.py --start 0000001 --end 9999999 --delay 0.00001 --concurrency 50
    ```
 
 2. **With Proxies**:
    ```bash
-   python3 script_name.py --start 1 --end 9999999 --delay 0.00001 --concurrency 50 --proxies list.txt
+   python3 script_name.py --start 0000001 --end 9999999 --delay 0.00001 --concurrency 50 --proxies list.txt
    ```
 
 ---
